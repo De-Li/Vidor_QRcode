@@ -1,3 +1,7 @@
+#Fork by Derry 
+I forked this official repository for developing FPGA-based QR-code decoding.
+
+
 # VidorFPGA
 
 This repository includes FPGA IP Blocks compatible with the Arduino Vidor family of products and is aimed to users already familiar with FPGA development process.
